@@ -1,4 +1,6 @@
-MeetUp
+MeetUp:
+
+Documentation: https://drive.google.com/open?id=0B-Cn73yS0gUlTTVKbTQ5X20yYzg
 
 The project was to design and implement a database that presents a list of experts in any field and to provide a Mapping Service that gets several Places of Interest along the route from the user’s location and the destination.
 
